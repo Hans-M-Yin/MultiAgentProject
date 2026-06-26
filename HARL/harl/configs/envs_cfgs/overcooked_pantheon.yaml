@@ -1,0 +1,5 @@
+layout_name: simple
+ego_agent_idx: 0
+horizon: 400
+baselines: False
+state_type: EP
